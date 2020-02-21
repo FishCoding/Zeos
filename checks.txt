@@ -1,0 +1,11 @@
+• Adapt the task_struct definition. WORKING
+• Initialize a free queue. DONE (sched.c y system.c)
+• Initialize a ready queue. DONE (sched.c y system.c)
+• Implement the initial processes initialization. DONE (sched.c)
+• Implement the task_switch function. DONE (sched.c)
+• Implement the inner_task_switch function. DONE (sched.c)
+• Implement the getpid system call. DONE (lib.c, sys.c y  sys_call_table.S)
+• Implement the fork system call. WORKING
+• Implement process scheduling.
+• Implement the exit system call.
+• Implement the getstats system call.
